@@ -69,7 +69,7 @@ body {
 }
 
 .hero-img{
-  background-image: url(img-file/concert.jpg);
+  background-image: url(concert.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-blend-mode: darken;
